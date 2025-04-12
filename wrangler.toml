@@ -5,22 +5,22 @@ name = "tiny-limit-2e00" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "tiny-limit-2e00.paok17.workers.dev"
+pattern = "ariskeesa.workers.dev"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.tiny-limit-2e00.paok17.workers.dev"
+pattern = "quiz.int.vidio.com.ariskeesa.com"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.tiny-limit-2e00.paok17.workers.dev"
+pattern = "quiz.vidio.com.ariskeesa.workers.dev"
 custom_domain = true
 [[routes]]
-pattern = "ina.putangina.com.tiny-limit-2e00.paok17.workers.dev"
+pattern = "ina.putangina.com.ariskeesa.workers.dev"
 custom_domain = true
 [[routes]]
-pattern = "wikwik.kuntul.id.tiny-limit-2e00.paok17.workers.dev"
+pattern = "wikwik.kuntul.id.ariskeesa.workers.dev"
 custom_domain = true
 [[routes]]
-pattern = "space.byu.id.tiny-limit-2e00.paok17.workers.dev"
+pattern = "space.byu.id.ariskeesa.workers.dev"
 custom_domain = true
 
 [vars]
